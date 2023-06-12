@@ -1,0 +1,132 @@
+Hi Sam! Your game has been generated and is ready to go!
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+______
+Guesses Left: 6!
+Please pick a letter that you would like to guess
+p
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+______
+Your incorrect guesses: ['p']
+Guesses Left: 5!
+Please pick a letter that you would like to guess
+e
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+e____e
+Your incorrect guesses: ['p']
+Guesses Left: 5!
+Please pick a letter that you would like to guess
+i
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p']
+Guesses Left: 5!
+Please pick a letter that you would like to guess
+l
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l']
+Guesses Left: 4!
+Please pick a letter that you would like to guess
+l
+You've already guessed that!
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l']
+Guesses Left: 4!
+Please pick a letter that you would like to guess
+o
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l', 'o']
+Guesses Left: 3!
+Please pick a letter that you would like to guess
+n
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l', 'o', 'n']
+Guesses Left: 2!
+Please pick a letter that you would like to guess
+s
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l', 'o', 'n', 's']
+Guesses Left: 1!
+Please pick a letter that you would like to guess
+v
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+e__i_e
+Your incorrect guesses: ['p', 'l', 'o', 'n', 's', 'v']
+Guesses Left: 0!
+Ah that sucks, sorry you lost! The word was ethize
+
+Process finished with exit code 0
