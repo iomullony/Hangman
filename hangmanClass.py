@@ -5,7 +5,7 @@ from string import punctuation
 
 class hangman:
 
-    def __init__(self, username='', wordLength=0, word=''):
+    def __init__(self, username = '', wordLength = 0, word = ''):
         self.username = username
         self.wordLength = wordLength
         self.word = word
